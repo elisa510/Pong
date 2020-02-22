@@ -1,6 +1,6 @@
 """
 Pong
-Written By : Shivam Shekhar
+Written By Elisa Rodriguez Evans
 """
 
 #importing libraries
@@ -19,7 +19,7 @@ pygame.init()
 FPS = 60
 
 #Setting the screen size
-scr_size = (width,height) = (600,400)
+scr_size = (width,height) = (1028,720)
 
 #creating a clock object from pygame.time.Clock class
 clock = pygame.time.Clock()
